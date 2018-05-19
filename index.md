@@ -1,6 +1,6 @@
 ---
 title: Welcome
-layout: default
+layout: page
 lang: en
 ---
 
