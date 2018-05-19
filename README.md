@@ -1,2 +1,2 @@
-# github.io
-Personal blog
+# milonoir.github.io
+Personal website

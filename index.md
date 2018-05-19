@@ -1,5 +1,6 @@
 ---
 title: Welcome
+layout: default
 lang: en
 ---
 
@@ -7,3 +8,9 @@ lang: en
 
 Stay tuned...
 
+Some example `python` code below
+
+```python
+def foo():
+    return "bar"
+```

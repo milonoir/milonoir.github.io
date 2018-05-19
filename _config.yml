@@ -1,7 +1,7 @@
 title: Milo Noir
 email: bmilan1985@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal weblog of Milán Boleradszki.
+  This is the personal website of Milán Boleradszki.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: milonoir
@@ -9,25 +9,10 @@ github_username:  milonoir
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
-plugins:
-  - jekyll-feed
 
 defaults:
-    - scope:
-        path: ""
-        type: "pages"
-      values:
-        layout: "default"
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
