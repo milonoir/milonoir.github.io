@@ -10,9 +10,39 @@ github_username:  milonoir
 # Build settings
 markdown: kramdown
 
+permalink: pretty
+
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "default"
+
+t:
+  en:
+    home:
+      name: home
+      url: /
+    projects:
+      name: projects
+      url: /projects/
+    about:
+      name: about
+      url: /about/
+    http404:
+      err: Page not found :(
+      desc: The requested page could not be found.
+  hu:
+    home:
+      name: főoldal
+      url: /fooldal/
+    projects:
+      name: projektek
+      url: /projektek/
+    about:
+      name: rólam
+      url: /rolam/
+    http404:
+      err: Az oldal nem található :(
+      desc: A kért oldal nem található.

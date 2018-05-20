@@ -1,0 +1,18 @@
+---
+layout: page
+---
+<div class="blog-post">
+  {% if page.title %}
+    <h2 class="blog-post-title">{{ page.title }}</h2>
+    <p class="blog-post-meta">{{ page.date }}:
+      {% for cat in page.categories %}
+        <a href=""><span class="label label-default">{{ cat }}</span></a>
+      {% endfor %}
+    </p>
+    <p id="story-body">
+      {{ content }}
+    </p>
+  {% else %}
+    <p>Not available</p>
+  {% endif %}
+</div>

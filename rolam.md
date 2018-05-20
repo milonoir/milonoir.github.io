@@ -1,10 +1,10 @@
 ---
-title: About
+title: Rólam
 layout: page
-lang: en
+lang: hu
 ref: about
 ---
 
-Coming soon...
+Hamarosan...
 
 [Github](https://github.com/milonoir)
