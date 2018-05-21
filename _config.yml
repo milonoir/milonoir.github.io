@@ -30,9 +30,7 @@ t:
     about:
       name: about
       url: /about/
-    http404:
-      err: Page not found :(
-      desc: The requested page could not be found.
+    copyright: Milán Boleradszki
   hu:
     home:
       name: főoldal
@@ -43,6 +41,4 @@ t:
     about:
       name: rólam
       url: /rolam/
-    http404:
-      err: Az oldal nem található :(
-      desc: A kért oldal nem található.
+    copyright: Boleradszki Milán
