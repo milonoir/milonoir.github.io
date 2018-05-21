@@ -4,7 +4,7 @@ layout: post
 lang: hu
 ref: how-its-made1
 date: 2014-10-03 16:20:19 +0100
-categories: archive
+categories: archívum
 ---
 
 Ahogy arról már [korábban megemlékeztem]({% post_url 2014-09-30-hello-vilag %}), nagyjából 2 évvel ezelőtt jött az ihlet, hogy én bizony itthon beüzemelek egy *nagyon kicsi* PC-t és azon lakik majd az én weblapom. Mielőtt ezt kitaláltam volna, mindenféle ingyenes és olcsó hosting szolgáltatásokat böngésztem. Teljesen fogalom nélkül voltam, de azt tudtam, hogy nem akarok sokat rákölteni és a lehető legkevesebb hirdetést szeretném látni az oldalamon. Ekkoriban hallottam először a *bankkártya méretű*, alacsony fogyasztású számítógépekről. Rövidesen kiderült, hogy mindent meg tudok valósítani saját magam.
