@@ -31,6 +31,9 @@ t:
       name: about
       url: /about/
     copyright: Milán Boleradszki
+    links: outta here
+    intro: about the blog
+    intro_desc: a blog about hacking, music, games, movies, food... and everything
   hu:
     home:
       name: főoldal
@@ -42,3 +45,6 @@ t:
       name: rólam
       url: /rolam/
     copyright: Boleradszki Milán
+    links: el innen
+    intro: a blogról
+    intro_desc: egy blog programozásról, zenéről, játékról, filmekről, kajáról... és mindenféléről
